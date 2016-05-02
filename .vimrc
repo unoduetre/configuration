@@ -39,7 +39,6 @@ set updatetime=2000
 set wildmenu
 
 let g:vim_markdown_folding_disabled=1
-let g:closetag_html_style=1 
 
 execute pathogen#infect()
 
