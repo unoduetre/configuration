@@ -1,0 +1,6 @@
+# vim
+*.sw?
+tags
+
+.vim/undodir
+
